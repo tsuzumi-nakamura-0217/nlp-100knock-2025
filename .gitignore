@@ -10,4 +10,4 @@ __pycache__/
 
 # Secrets
 .env
-*.secret
+*.secret第06章_単語ベクトル/GoogleNews-vectors-negative300.bin.gz
